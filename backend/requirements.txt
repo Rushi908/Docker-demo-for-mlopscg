@@ -1,0 +1,25 @@
+
+
+# Web & API
+streamlit
+fastapi[all]
+
+# LangChain & Extensions
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+langgraph
+
+# Utilities
+pydantic
+python-dotenv
+pytz
+
+# Embeddings & Vector Processing
+sentence-transformers
+
+# Data & External Sources
+yfinance
+youtube-search
+

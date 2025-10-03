@@ -1,7 +1,8 @@
 import streamlit as st
 import requests
 
-API_URL = "http://127.0.0.1:8003/execute" 
+API_URL = "http://backend:8000/execute"
+
 
 st.title("🩺 Doctor Appointment System")
 
